@@ -3254,13 +3254,14 @@ label.error:after {
 }
 
 #toTop:after {
-    content: "\e899";
-    font-family: fontello;
+    content: "\f062";
+    font-family: "Font Awesome 5 Free";
     position: relative;
     display: block;
     top: 50%;
     -webkit-transform: translateY(-55%);
-    transform: translateY(-55%)
+    transform: translateY(-55%);
+    font-weight: 900;
 }
 
 .white_bg {
