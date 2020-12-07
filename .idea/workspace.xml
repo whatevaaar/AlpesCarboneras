@@ -2,90 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28ab7542-a844-4b02-9855-ec5447f8bfa5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/banner.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/_DataURI/data.f621de726861b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/bam-cell.nr-data.net/1/fcf8d519de.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/consent.cookiebot.com/uc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/consentcdn.cookiebot.com/consentconfig/4a6af4ea-f614-41d8-b0a9-8bb6d7fe4799/state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/consentcdn.cookiebot.com/sdk/bc.min.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/cookiebot-assets.envato-static.com/cookiebot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/fonts.googleapis.com/css2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/js-agent.newrelic.com/nr-1184.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/preview.themeforest.net/item/citytours-city-tours-tour-tickets-and-guides/full_screen_preview/10715647.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/public-assets.envato-static.com/assets/logos/envato_market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/public-assets.envato-static.com/assets/market/core/index-6e294e9c28580b492d27bcaaaada9a0076a7fc2dff6bc9df9de894ce02be4c1c.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/public-assets.envato-static.com/assets/market/pages/full_screen_preview/index-0761a67821063364aae0c110e00f283d54710f2090e2a9312eb487a5d703205b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/public-assets.envato-static.com/assets/market/pages/preview/index-004d35cdd5d555cdd3e956d1b916825642de06529f0fe91fd9f390813761d2fc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/public-assets.envato-static.com/assets/marketplace-glyphs/marketplace-glyphs-89c24d697618dd08e5585cc2dc210afe6b8d89e547453a05e19b6a7c91fe73b6.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/all_tours_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/vendors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/adventure_icon_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/adventure_icon_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/adventure_icon_3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/badge_save.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/banner_bg_desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/down_arrow_select.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/hotel_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/hotel_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/hotel_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/hotel_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/hotel_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/img_cat_home_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/img_cat_home_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/img_cat_home_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/img_cat_home_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/logo_sticky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/news_home_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/news_home_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/news_home_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/news_home_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/notify_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/slides/slide_home_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/slides/slide_home_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/slides/slide_home_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/thumb_cart_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/thumb_cart_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/thumb_cart_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/tour_box_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/tour_box_14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/tour_box_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/tour_box_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/img/tour_box_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/index.html#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/js/common_scripts_min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/js/notify_func.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/js/switcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.google-analytics.com/analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.google-analytics.com/gtm/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.google-analytics.com/plugins/ua/ec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.google-analytics.com/plugins/ua/linkid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/slides/banner.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/leyendas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tirolesa.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontello/font/fontello.woff" beforeDir="false" afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/fontello/font/fontello.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fontello/font/icon_set_1.woff" beforeDir="false" afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/fontello/font/icon_set_1.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/new_icons/font/ElegantIcons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/img/preview.themeforest.net/www.ansonika.com/citytours/css/new_icons/font/ElegantIcons.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner_bg_desktop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner_bg_desktop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_cat_home_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_cat_home_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_cat_home_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_cat_home_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_cat_home_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_cat_home_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/img_cat_home_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/img_cat_home_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slides/slide_home_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slides/slide_home_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slides/slide_home_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/slides/slide_home_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/slides/slide_home_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_sticky.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo_sticky.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607214091631</updated>
-      <workItem from="1607214093519" duration="9223000" />
+      <workItem from="1607214093519" duration="9989000" />
+      <workItem from="1607273583398" duration="4606000" />
     </task>
     <servers />
   </component>
@@ -130,6 +53,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1607230731411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607230731411" />
     <state x="752" y="418" key="scopes" timestamp="1607220903286">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
